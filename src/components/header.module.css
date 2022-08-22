@@ -1,0 +1,17 @@
+.nav {
+    background: transparent;
+    height: 80px;
+    display: flex;
+    list-style: none;
+    padding-left: 0;
+}
+
+.navlink {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    color: #72751D;
+    padding-right: 2rem;
+}
